@@ -20,13 +20,19 @@ Features:
 git clone https://github.com/<your-username>/ssh-dashboard.git ~/ssh-dashboard
 ```
 
-2. Source the script in your ```.zshrc``` or ```.bashrc```:
+2. Make it executable
+
+```bash
+chmod +x ~/ssh-dashboard/zsh/ssh-status.zsh
+```
+
+3. Source the script in your ```.zshrc``` or ```.bashrc```:
 
 ```bash
 source ~/ssh-dashboard/zsh/ssh-status.zsh
 ```
 
-3. Reload your shell:
+4. Reload your shell:
 
 ```bash
 source ~/.zshrc
