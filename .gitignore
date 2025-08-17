@@ -1,0 +1,4 @@
+# Ignore SSH private keys and sensitive files
+*.pem
+id_*
+known_hosts
