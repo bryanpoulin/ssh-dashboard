@@ -51,7 +51,7 @@ ssh-status
 * Currently optimized for macOS (--apple-use-keychain integration)
 * Linux support possible; remove --apple-use-keychain in ssh-fix
 * Designed for Zsh; minor tweaks may be needed for Bash
-* Flexible: use as a sourced function, and execuable script, or via SSH config
+* Flexible: use as a sourced function, execuable script, or via SSH config
 
 ## Contributing
 
