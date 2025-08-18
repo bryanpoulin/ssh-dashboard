@@ -8,7 +8,7 @@ Features:
 - ✅ Validates `SSH_AUTH_SOCK`
 - ✅ Lists loaded SSH keys with color-coded status
 - ✅ Automatically reloads missing keys into the macOS Keychain
-- ✅ Provides a summary at the top for quick glance
+- ✅ Provides a summary for quick glance
 
 ---
 
@@ -51,7 +51,6 @@ ssh-status
 * Currently optimized for macOS (--apple-use-keychain integration)
 * Linux support possible; remove --apple-use-keychain in ssh-fix
 * Designed for Zsh; minor tweaks may be needed for Bash
-* Flexible: use as a sourced function, or execuable script
 
 ## Contributing
 
